@@ -14,10 +14,10 @@ HTML的基本结构：
 <htlm lang="en">//根标签 只能有一个 页面中所有内容都在根标签中
 <head>//头部信息
 <meta charset="UTF-8">//UTF-8支持中文
-<title>慕课网</title>//标题部分
+<title>花仙子</title>//标题部分
 </head>
 <body>//网页内容
-<h1>慕课网</h1>
+<h1>花仙子</h1>
 </body>
 </html>
  HTML的标签： 
